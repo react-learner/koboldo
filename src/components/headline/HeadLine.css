@@ -1,0 +1,18 @@
+.headline-container{
+    background-color: white;
+    margin: 1rem 0;
+
+}
+.headline-container h4, .headline-container h1{
+    text-align: start;
+    margin-left: 1.5rem;
+
+}
+.h4-headline{
+    color: #bbb;
+    font-size: 1.5rem;
+}
+.h1-headline{
+    font-size: 3rem;
+
+}

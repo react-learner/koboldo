@@ -1,0 +1,23 @@
+.condition-container {
+  background-color: white;
+  padding-left: 1rem;
+  align-self: flex-start;
+  grid-row: 2/3;
+  grid-column: -4/-3;
+  padding-bottom: 1rem;
+}
+.condition-container h2 {
+  text-align: left;
+  margin: 2rem 0 0.7rem 0;
+}
+.options {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+.options h3 {
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 3px;
+}

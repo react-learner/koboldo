@@ -1,0 +1,23 @@
+.search-container{
+    background-color: white;
+    
+    height: 3.3rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.search-bar{
+    width: 55rem;
+    border: none;
+    text-align: start;
+}
+
+.filter-icon{
+    border-radius: 5px 0px 0px 5px;
+    background-color: #bbb;
+    width: 3.3rem;
+}
+.search-icon, .close-icon{
+    width: 2.7rem;
+}
