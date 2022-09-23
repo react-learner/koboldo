@@ -10,3 +10,16 @@ html{
   background-color: #efefef;
   font-family: 'Roboto', sans-serif;
 }
+@media(max-width:430px){
+  html{
+    font-size: 40%;
+  }
+  .search-bar,.filter-icon, .close-icon, .iconName, .icon, .user-pic, .user-name, .user-container::before{
+    display: none;
+    content:''
+  }
+  .search-container, .user-container{
+    background-color: black;
+  }
+  
+}
